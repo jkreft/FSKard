@@ -1,0 +1,22 @@
+Standard Headphone Jack (4 contacts):
+	
+	(CTIA Standard , Apple, ...)			    _	
+							   | |
+	Functions: Tip-to-base:	- Left speaker		   | |
+							   |_|
+				- Right speaker		  |   |
+							  |___|
+				- Ground		 |     |
+							 |_____|
+				- Microphone		|       |
+							|       |
+							|       |
+My order/colour-code:
+
+	(left-to-right)
+
+	- Red: Right speaker
+	- Brown: Left speaker
+	- Black: Microphone
+	- White: Ground
+	- Grey: Empty (Additional contact)
